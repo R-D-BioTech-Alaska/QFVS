@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="docs/images/qfvslogo.png" alt="QELM" width="520">
+</p>
+
 # QFVS — Quantum Field Vision
 
 **A rendering engine built around the state of an entire world, not just the next frame.**
